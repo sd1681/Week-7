@@ -16,3 +16,4 @@ Time spent: **6** hours spent in total
     - Vulnerability types: User Enumeration
     - Tested in version: 4.2
 
+https://gfycat.com/MellowPoliteFiddlercrab

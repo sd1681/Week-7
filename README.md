@@ -1,6 +1,6 @@
 # Project 7 - WordPress Pentesting
 
-Time spent: **6** hours spent in total
+Time spent: **8** hours spent in total
 
 > Objective: Find, analyze, recreate, and document **five vulnerabilities** affecting an old version of WordPress
 
@@ -16,4 +16,8 @@ Time spent: **6** hours spent in total
     - Vulnerability types: User Enumeration
     - Tested in version: 4.2
 
+3. (Required) XSS 2
+  - [ ] Summary: The version 4.6.1 is vulnerable to to xss attacks when creating a new post.
+    - Vulnerability types: XSS
+    - Tested in version: 4.2
 https://gfycat.com/MellowPoliteFiddlercrab

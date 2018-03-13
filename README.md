@@ -19,5 +19,5 @@ Time spent: **8** hours spent in total
 3. (Required) XSS 2
   - [ ] Summary: The version 4.6.1 is vulnerable to to xss attacks when creating a new post.
     - Vulnerability types: XSS
-    - Tested in version: 4.2
-https://gfycat.com/MellowPoliteFiddlercrab
+    - Tested in version: 4.6.1
+
